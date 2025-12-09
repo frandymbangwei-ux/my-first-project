@@ -15,3 +15,9 @@ My name is Fonkem Randy Mbangwei  momong life is cool
 > life is good
 >> A world from Randy
 Re traditoinal 'hold' lie is Boring
+To Run My project Follow the Follow ing Steps
+```cmd
+git int -- In the folder to choose to work on
+git clone <url> -- to clone My repor
+ ```
+the ai module was provided by [yvesdylane](https://github.com/yvesdylane)
