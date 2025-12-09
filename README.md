@@ -14,3 +14,4 @@ My name is Fonkem Randy Mbangwei  momong life is cool
 - Beans2
 > life is good
 >> A world from Randy
+Re traditoinal 'hold' lie is Boring
