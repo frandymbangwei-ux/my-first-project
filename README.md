@@ -7,3 +7,8 @@
 ##### software engineering
 My name is Fonkem Randy Mbangwei  momong life is cool  
 **Randy**
+- Rice
+- Beans2
+- Order 23+
+- Rice1
+- Beans2
